@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi I'm Terence, 👋
+A smart, driven software engineer with professional technical experience in full-stack web development, UX/UI design, application development, deployment, algorithms, and object-oriented design. Great at learning new technologies and design concepts. Over 5 years’ experience in multicultural environment training students in STEM curriculum.
 
 <!--
 **Tmstone/Tmstone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
